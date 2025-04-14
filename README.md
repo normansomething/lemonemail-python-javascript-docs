@@ -1,6 +1,6 @@
 # Lemon Documentation
 
-Welcome to the official documentation for **Lemon**, your go-to platform for streamlined communication and contact management. This guide covers use cases, API integration, and advanced functionalities like AI-driven messaging.
+Welcome to the official documentation for **Lemon Email**, your go-to platform for streamlined email communication and contact management. This guide covers use cases, API integration, and advanced functionalities like AI-driven messaging.
 
 ---
 
